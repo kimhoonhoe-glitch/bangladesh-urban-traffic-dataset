@@ -42,7 +42,7 @@ size_categories:
 > **Website:** https://origindatalab.io  
 > **Hugging Face Sample:** https://huggingface.co/datasets/origindatalab/bangladesh-urban-traffic-free-sample-v2
 
-![Bangladesh Mixed Traffic](images/1.jpeg)
+![Bangladesh Mixed Traffic](1.jpg)
 
 This Bangladesh Traffic Dataset contains real-world mixed traffic scenes including rickshaws, motorcycles, buses, cars, pedestrians, market congestion, intersections, and complex urban mobility patterns.
 
