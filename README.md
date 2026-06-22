@@ -30,7 +30,19 @@ size_categories:
 
 # Bangladesh Urban Traffic Dataset (Dhaka Mixed Traffic Dataset) — Free Sample
 
-![Bangladesh Mixed Traffic](hero.jpg)
+> **Commercial licensing available**
+>
+> Origin Data Lab provides real-world urban traffic datasets for autonomous driving, robotics, physical AI, computer vision, and perception system development.
+>
+> **Free Sample Dataset:** This repository  
+> **Discovery Pack:** $500 USD  
+> **Commercial Licensing:** Custom pricing depending on project scope and usage  
+>
+> **Contact:** contact@origindatalab.io  
+> **Website:** https://origindatalab.io  
+> **Hugging Face Sample:** https://huggingface.co/datasets/origindatalab/bangladesh-urban-traffic-free-sample-v2
+
+![Bangladesh Mixed Traffic](images/1.jpeg)
 
 This Bangladesh Traffic Dataset contains real-world mixed traffic scenes including rickshaws, motorcycles, buses, cars, pedestrians, market congestion, intersections, and complex urban mobility patterns.
 
