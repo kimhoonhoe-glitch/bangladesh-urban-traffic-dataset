@@ -50,7 +50,22 @@ The dataset is designed for computer vision, object detection, autonomous drivin
 
 This repository serves as a free sample of a larger Dhaka Traffic Dataset and Mixed Traffic Dataset developed by Origin Data Lab.
 
+---
 
+## Commercial Access Available
+
+Need a larger mixed-traffic dataset for model evaluation or internal PoC?
+
+- Discovery Pack: $500 — 120 curated 15-second clips
+- Evaluation Pack: $2,000 — broader enterprise evaluation dataset
+- Use cases: Autonomous Driving, Robotics, ADAS, Physical AI, Object Detection
+- Delivery: secure commercial download after checkout
+
+👉 Buy Discovery Pack:
+https://origindatalab.lemonsqueezy.com/checkout/buy/46ece78e-7e3e-4c5f-87ca-95f582934d0a
+
+Website: https://origindatalab.io  
+Email: contact@origindatalab.io
 
 ---
 
